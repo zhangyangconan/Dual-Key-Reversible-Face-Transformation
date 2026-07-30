@@ -4,4 +4,4 @@ This repository accompanies the manuscript *Reversible Multi-Attribute Face Tran
 
 ## Release Status
 
-The implementation and supporting scripts are currently being organized, cleaned, and documented. Source code, configurations, evaluation scripts, and usage instructions will be uploaded to this repository progressively as they become ready for release.
+The code will be uploaded to this repository progressively.
